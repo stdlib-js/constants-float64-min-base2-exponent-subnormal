@@ -20,7 +20,7 @@ limitations under the License.
 
 # Minimum Subnormal Base 2 Exponent
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > The minimum biased base 2 exponent for a subnormal [double-precision floating-point number][ieee754].
 
@@ -88,9 +88,9 @@ console.log( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL );
 
 ## See Also
 
--   [`@stdlib/constants/float64/max-base2-exponent-subnormal`][@stdlib/constants/float64/max-base2-exponent-subnormal]: the maximum biased base 2 exponent for a subnormal double-precision floating-point number.
--   [`@stdlib/constants/float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal]: the minimum base 10 exponent for a subnormal double-precision floating-point number.
--   [`@stdlib/constants/float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent]: the minimum biased base 2 exponent for a normal double-precision floating-point number.
+-   <span class="package-name">[`@stdlib/constants/float64/max-base2-exponent-subnormal`][@stdlib/constants/float64/max-base2-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum biased base 2 exponent for a subnormal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the minimum base 10 exponent for a subnormal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a normal double-precision floating-point number.</span>
 
 </section>
 
@@ -141,8 +141,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float64-min-base2-exponent-subnormal/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float64-min-base2-exponent-subnormal?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float64-min-base2-exponent-subnormal.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float64-min-base2-exponent-subnormal/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
