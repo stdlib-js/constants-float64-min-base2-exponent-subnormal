@@ -33,7 +33,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@deno/mod.js';
+import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.0.8-deno/mod.js';
 ```
 
 #### FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL
@@ -62,7 +62,7 @@ var bool = ( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL === -1074 );
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@deno/mod.js';
+import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.0.8-deno/mod.js';
 
 console.log( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL );
 // => -1074
