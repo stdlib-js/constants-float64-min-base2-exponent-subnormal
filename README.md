@@ -35,6 +35,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-min-base2-exponent-subnormal/tags). For example,
+
+```javascript
 FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.0.8-umd/browser.js' )
 ```
 
@@ -47,7 +52,7 @@ var FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL = require( 'path/to/vendor/umd/constant
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.0.8-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -89,7 +94,7 @@ var bool = ( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL === -1074 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.0.8-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
