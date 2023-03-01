@@ -150,9 +150,9 @@ Macro for the minimum biased base 2 exponent for a subnormal [double-precision f
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/max-base2-exponent-subnormal`][@stdlib/constants/float64/max-base2-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum biased base 2 exponent for a subnormal double-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/constants/float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the minimum base 10 exponent for a subnormal double-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/constants/float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a normal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-base2-exponent-subnormal`][@stdlib/constants/float64/max-base2-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum biased base 2 exponent for a subnormal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the minimum base 10 exponent for a subnormal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a normal double-precision floating-point number.</span>
 
 </section>
 
