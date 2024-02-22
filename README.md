@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@esm/index.mjs';
+import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.2.0-esm/index.mjs';
 ```
 
 #### FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL
@@ -78,7 +78,7 @@ var bool = ( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL === -1074 );
 <body>
 <script type="module">
 
-import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@esm/index.mjs';
+import FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent-subnormal@v0.2.0-esm/index.mjs';
 
 console.log( FLOAT64_MIN_BASE2_EXPONENT_SUBNORMAL );
 // => -1074
